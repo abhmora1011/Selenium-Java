@@ -1,0 +1,32 @@
+package core_java;
+
+public class CoreJavaBrushUp1 {
+	
+	public static void main(String[] args) {
+		
+		// Data Types
+		
+		int myNum = 5; // Primitive
+		String website = "Rahul Shetty Academy"; // Non-primitive
+		char letter = 'r';
+		double fdata = 5.99;
+		boolean myCard = true;
+		
+		System.out.println(myNum + "is the value stored in the myNum variable");
+		System.out.println(website);
+		
+		
+		// Arrays
+		
+		int[] sample = new int[5];
+		sample[0] = 1;
+		sample[1] = 2;
+		sample[2] = 3;
+		sample[3] = 4;
+		sample[4] = 5;
+		
+		int[] a = {1,2,3,4,5};
+		System.out.println(a[1]);
+	}
+
+}

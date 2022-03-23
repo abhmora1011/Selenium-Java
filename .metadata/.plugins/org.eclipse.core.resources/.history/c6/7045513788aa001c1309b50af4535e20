@@ -1,0 +1,16 @@
+package core_java;
+
+public class CoreJavaBrushUp1 {
+	
+	public static void main(String[] args) {
+		
+		
+		int myNum = 5; // Primitive
+		String website = "Rahul Shetty Academy"; // Non-primitive
+		char letter = 'r';
+		double fdata = 5.99;
+		boolean myCard = true;
+		
+	}
+
+}
