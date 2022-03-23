@@ -24,7 +24,7 @@ public class CoreJavaBrushUp3 {
 		
 		System.out.println(splittedString[1].trim()); // Trim the left and right spaces
 		
-		for (int i = 0; i < s.length(); i++) {
+		for (int i = s.length()-1; i >= 0; i--) {
 			System.out.print(s.charAt(i));
 		}
 		
