@@ -22,13 +22,11 @@ public class LocatorsEndToEnd {
 		
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		
-		String password = getPassword(driver);
-		
 		driver.get("https://www.rahulshettyacademy.com/locatorspractice");
 		
 		driver.findElement(By.id("inputUsername")).sendKeys(name);
 	
-		driver.findElement(By.name("inputPassword")).sendKeys(password);
+		driver.findElement(By.name("inputPassword")).sendKeys("rahulshettyacademy");
 		
 		driver.findElement(By.className("signInBtn")).click();
 		
@@ -50,7 +48,7 @@ public class LocatorsEndToEnd {
 
 	}
 	
-	public static String getPassword(WebDriver driver) throws InterruptedException 
+	public void getPassword(WebDriver driver) throws InterruptedException 
 	{
 		driver.get("https://www.rahulshettyacademy.com/locatorspractice");
 		
@@ -78,8 +76,6 @@ public class LocatorsEndToEnd {
 		// 1st index - to Login.
 		
 		String password = splittedString2[0];
-		
-		return password;
 	}
 
 }

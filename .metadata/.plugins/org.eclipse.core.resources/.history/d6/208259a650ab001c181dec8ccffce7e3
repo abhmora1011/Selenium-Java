@@ -22,13 +22,11 @@ public class LocatorsEndToEnd {
 		
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		
-		String password = getPassword(driver);
-		
 		driver.get("https://www.rahulshettyacademy.com/locatorspractice");
 		
 		driver.findElement(By.id("inputUsername")).sendKeys(name);
 	
-		driver.findElement(By.name("inputPassword")).sendKeys(password);
+		driver.findElement(By.name("inputPassword")).sendKeys("rahulshettyacademy");
 		
 		driver.findElement(By.className("signInBtn")).click();
 		
@@ -50,7 +48,7 @@ public class LocatorsEndToEnd {
 
 	}
 	
-	public static String getPassword(WebDriver driver) throws InterruptedException 
+	public void getPassword(WebDriver driver) throws InterruptedException 
 	{
 		driver.get("https://www.rahulshettyacademy.com/locatorspractice");
 		
@@ -65,21 +63,13 @@ public class LocatorsEndToEnd {
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//form/h2/../p")));
 		
 		String txt = driver.findElement(By.xpath("//form/h2/../p")).getText();
-		//Please use temporary password 'rahulshettyacademy' to Login.
 		
-		String[] splittedString = txt.split("'"); // String[] splittedString = txt.split("'")[0] to directly parsed the txt
-		 
-		// 0th index - Please use temporary password'
-		// 1st index - rahulshettyacademy' to Login.
+		String[] splittedString = txt.split(" ");
 		
-		String[] splittedString2 = splittedString[1].split("'");
+		String password = splittedString[4].trim("\'");
 		
-		// 0th index - rahulshettyacademy
-		// 1st index - to Login.
 		
-		String password = splittedString2[0];
 		
-		return password;
 	}
 
 }

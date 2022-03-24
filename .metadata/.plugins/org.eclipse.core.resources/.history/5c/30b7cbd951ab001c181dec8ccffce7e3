@@ -28,7 +28,7 @@ public class LocatorsEndToEnd {
 		
 		driver.findElement(By.id("inputUsername")).sendKeys(name);
 	
-		driver.findElement(By.name("inputPassword")).sendKeys(password);
+		driver.findElement(By.name("inputPassword")).sendKeys("rahulshettyacademy");
 		
 		driver.findElement(By.className("signInBtn")).click();
 		

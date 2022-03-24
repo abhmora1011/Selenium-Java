@@ -22,13 +22,13 @@ public class LocatorsEndToEnd {
 		
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		
-		String password = getPassword(driver);
+		getPassword(driver);
 		
 		driver.get("https://www.rahulshettyacademy.com/locatorspractice");
 		
 		driver.findElement(By.id("inputUsername")).sendKeys(name);
 	
-		driver.findElement(By.name("inputPassword")).sendKeys(password);
+		driver.findElement(By.name("inputPassword")).sendKeys("rahulshettyacademy");
 		
 		driver.findElement(By.className("signInBtn")).click();
 		
