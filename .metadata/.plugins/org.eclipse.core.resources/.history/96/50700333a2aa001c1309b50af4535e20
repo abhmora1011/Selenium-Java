@@ -1,0 +1,13 @@
+package core_java;
+
+public class MethodsDemo {
+
+	public static void main(String[] args) {
+		
+		MethodsDemo2 obj = new MethodsDemo();
+		obj.getData();
+
+	}
+	
+	
+}

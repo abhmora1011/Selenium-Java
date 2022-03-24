@@ -1,0 +1,19 @@
+package core_java;
+
+public class MethodsDemo {
+
+	public static void main(String[] args) {
+		
+		MethodsDemo obj = new MethodsDemo();
+		String name = obj.getData();
+		
+		obj.getData();
+
+	}
+	
+	public String getData() {
+		System.out.println("Hello World");
+		return "Abraham Ora";
+	}
+	
+}
