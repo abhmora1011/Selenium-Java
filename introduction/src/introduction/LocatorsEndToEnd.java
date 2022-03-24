@@ -24,7 +24,7 @@ public class LocatorsEndToEnd {
 		
 		String password = getPassword(driver);
 		
-		driver.get("https://www.rahulshettyacademy.com/locatorspractice");
+		// driver.get("https://www.rahulshettyacademy.com/locatorspractice");
 		
 		driver.findElement(By.id("inputUsername")).sendKeys(name);
 	
@@ -78,6 +78,10 @@ public class LocatorsEndToEnd {
 		// 1st index - to Login.
 		
 		String password = splittedString2[0];
+		
+		driver.findElement(By.cssSelector(".go-to-login-btn")).click();
+		
+		Thread.sleep(1000);
 		
 		return password;
 	}
