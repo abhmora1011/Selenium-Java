@@ -1,0 +1,26 @@
+package introduction;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Traversing {
+	
+	public static void main(String[] args) {
+		
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Abraham Ora\\Desktop\\Selenium\\driver\\chromedriver.exe");
+		
+		WebDriver driver = new ChromeDriver();
+		
+		// Sibling - Child - Parent Traverse
+		// double slash for relative xpath - start to a specific tag
+		// single slash for absolute xpath - starts from the root
+		// //header/div/button[1]/following-sibling::button (finding a sibling by using following-sibling:<sibling tag>
+		
+		driver.get("https://rahulshettyacademy.com/AutomationPractice/");
+		
+		driver.findElement(By.xpath("//header/div/button[1]/following-sibling::button")).getText();
+		
+	}
+
+}
