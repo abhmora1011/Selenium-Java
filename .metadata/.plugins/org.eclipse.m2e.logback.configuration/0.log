@@ -3731,3 +3731,157 @@ java.util.ConcurrentModificationException: null
 2022-03-25 17:00:00,075 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
 2022-03-25 17:00:00,080 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-03-25 17:00:00,082 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:13:12,179 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:13:12,181 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:13:12,184 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:13:12,187 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:13:24,624 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:13:24,626 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:13:24,627 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:13:24,628 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:15:25,595 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:15:25,597 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:15:25,601 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:15:25,603 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:15:29,518 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:15:29,520 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:15:29,522 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:15:29,526 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:16:04,354 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:16:04,355 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:16:04,356 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:16:04,358 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:16:48,495 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:16:48,496 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:16:48,498 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:16:48,499 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:17:52,579 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:17:52,580 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:17:52,582 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:17:52,583 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:18:43,281 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:18:43,283 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:18:43,285 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:18:43,287 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:18:58,325 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:18:58,326 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:18:58,327 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:18:58,328 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:19:33,042 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:19:33,044 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:19:33,046 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:19:33,047 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:20:31,375 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:20:31,378 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:20:31,380 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:20:31,383 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:20:57,219 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:20:57,221 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:20:57,224 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:20:57,236 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:21:04,473 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:21:04,475 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:21:04,476 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:21:04,478 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:23:32,802 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:23:32,803 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:23:32,805 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:23:32,806 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:23:56,855 [Worker-56: Launching DropdownDynamic] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:23:56,857 [Worker-56: Launching DropdownDynamic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:23:56,859 [Worker-56: Launching DropdownDynamic] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:23:56,861 [Worker-56: Launching DropdownDynamic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:25:47,890 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:25:47,892 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:25:47,894 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:25:47,895 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:25:49,432 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:25:49,439 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:25:49,441 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:25:49,442 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:25:52,811 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:25:52,813 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:25:52,817 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:25:52,820 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:26:08,369 [Worker-52: Launching DropdownDynamic] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:26:08,374 [Worker-52: Launching DropdownDynamic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:26:08,376 [Worker-52: Launching DropdownDynamic] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:26:08,377 [Worker-52: Launching DropdownDynamic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:26:40,968 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:26:40,973 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:26:40,974 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:26:40,976 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:28:36,755 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-25 17:44:20,856 [Worker-9: Launching DropdownDynamic] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:44:20,861 [Worker-9: Launching DropdownDynamic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:44:20,865 [Worker-9: Launching DropdownDynamic] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:44:20,867 [Worker-9: Launching DropdownDynamic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:45:19,365 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:45:19,366 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:45:19,369 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:45:19,372 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-25 17:45:42,534 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:45:42,537 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-25 17:45:42,539 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-25 17:45:42,540 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-28 10:42:43,976 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-28 15:33:07,329 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:33:07,388 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-28 15:33:07,390 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:33:07,391 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-28 15:33:23,887 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:33:23,889 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-28 15:33:23,890 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:33:23,892 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-28 15:37:36,274 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:37:36,276 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-28 15:37:36,278 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:37:36,280 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-28 15:38:04,895 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:38:04,898 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-28 15:38:04,901 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:38:04,903 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-28 15:39:26,213 [Worker-30: Launching DropdownDynamic2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:39:26,215 [Worker-30: Launching DropdownDynamic2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-28 15:39:26,218 [Worker-30: Launching DropdownDynamic2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:39:26,220 [Worker-30: Launching DropdownDynamic2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-28 15:40:03,719 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:40:03,721 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-28 15:40:03,722 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:40:03,723 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-28 15:40:08,653 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:40:08,655 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-28 15:40:08,656 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:40:08,657 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-28 15:40:47,044 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:40:47,046 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-28 15:40:47,051 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:40:47,053 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-28 15:41:23,746 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:41:23,748 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-28 15:41:23,749 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:41:23,760 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-28 15:41:57,792 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:41:57,795 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-28 15:41:57,797 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:41:57,798 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-28 15:42:48,171 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:42:48,174 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-28 15:42:48,176 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:42:48,177 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-28 15:43:53,461 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:43:53,462 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-28 15:43:53,464 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:43:53,465 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-28 15:44:14,097 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:44:14,099 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-28 15:44:14,102 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:44:14,104 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-28 15:48:57,522 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:48:57,524 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-28 15:48:57,526 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:48:57,529 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources
+2022-03-28 15:50:12,874 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:50:12,876 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\main\resources
+2022-03-28 15:50:12,879 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-28 15:50:12,882 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abraham Ora\Desktop\Selenium\introduction\src\test\resources

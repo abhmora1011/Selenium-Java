@@ -1,0 +1,32 @@
+package automateWebElements;
+
+import java.util.Iterator;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class DropdownDynamic {
+
+	public static void main(String[] args) {
+		
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Abraham Ora\\Desktop\\Selenium\\driver\\chromedriver.exe");
+		
+		WebDriver driver = new ChromeDriver();
+		
+		driver.manage().window().maximize();
+		
+		driver.get("https://rahulshettyacademy.com/dropdownsPractise/");
+		
+		driver.findElement(By.id("divpaxinfo")).click();
+		
+		for (int iterator = collection.iterator(); iterator.hasNext();) {
+			driver.findElement(By.id("hrefIncAdt")).click();
+			
+		}
+		
+		driver.findElement(By.id(""));
+
+	}
+
+}

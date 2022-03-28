@@ -15,8 +15,10 @@
     <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.WebDriverWait"/>
     <fullyQualifiedTypeName name="java.time.Duration"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.ExpectedConditions"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
     <fullyQualifiedTypeName name="java.lang.AssertionError"/>
     <fullyQualifiedTypeName name="net.jodah.failsafe.internal.util.Assert"/>
     <fullyQualifiedTypeName name="org.testng.Assert"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.Select"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
 </qualifiedTypeNameHistroy>
