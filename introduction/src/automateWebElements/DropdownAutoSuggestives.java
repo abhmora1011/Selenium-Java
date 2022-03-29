@@ -40,7 +40,7 @@ public class DropdownAutoSuggestives {
 				
 			}
 			
-			// System.out.println(webElement.getText()); to print all the element on the list
+			// System.out.println(option.getText()); to print all the element on the list
 		}
 		
 		

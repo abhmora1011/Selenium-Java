@@ -1,0 +1,50 @@
+package automateWebElements;
+
+
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import org.testng.Assert
+
+
+public class EndToEndTest {
+
+	public static void main(String[] args) throws InterruptedException {
+		
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Abraham Ora\\Desktop\\Selenium\\driver\\chromedriver.exe");
+		
+		WebDriver driver = new ChromeDriver();
+		
+		driver.manage().window().maximize();
+		
+		driver.get("https://rahulshettyacademy.com/dropdownsPractise/");
+		
+		// Auto suggest
+		
+		driver.findElement(By.xpath("//input[@id='autosuggest']")).sendKeys("IND");
+		
+		Thread.sleep(2000);
+		
+		List<WebElement> autoSuggest = driver.findElements(By.xpath("//li/a[@class='ui-corner-all']"));
+		
+		for (WebElement option : autoSuggest) {
+			
+			if (option.getText().equalsIgnoreCase("India")) {
+				option.click();
+				break;
+				Assert.assertEquals(option.getText(), "India");
+			}
+			
+		}
+		
+		// Radio button
+		
+		driver.findElement(By.xpath("//input[@id='ctl00_mainContent_rbtnl_Trip_1']")).click();
+
+	}
+
+}
