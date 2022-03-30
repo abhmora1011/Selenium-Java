@@ -42,14 +42,7 @@ public class EndToEndTest {
 	
 		// Radio button
 		
-		driver.findElement(By.xpath("//input[@id='ctl00_mainContent_rbtnl_Trip_0']")).click();
-		
-		if (driver.findElement(By.id("Div1")).getAttribute("style").contains("opacity: 0.5")) {
-			Assert.assertTrue(true);
-		}
-		else {
-			Assert.assertTrue(false);
-		}
+		driver.findElement(By.xpath("//input[@id='ctl00_mainContent_rbtnl_Trip_1']")).click();
 		
 		// From and To
 		
