@@ -1,3 +1,0 @@
-module introduction {
-	requires selenium.chrome.driver;
-}
