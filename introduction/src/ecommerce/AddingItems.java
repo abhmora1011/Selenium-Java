@@ -19,7 +19,7 @@ public class AddingItems {
 		WebDriver driver = new ChromeDriver();
 		
 		//Expected items need to add on the cart
-		String[] itemsNeeded = {"Cucumber", "Brocolli", "Tomato"}; 
+		String[] itemsNeeded = {"Cucumber", "Brocolli", "Tomato","Beetroot"}; 
 		int count = 0; // Count number of iteration to trigger the break
 
 		driver.manage().window().maximize();
@@ -48,8 +48,14 @@ public class AddingItems {
 				//break; // to save time instead of iterating on 30 items (DO NOT DECLARE break WHEN GOING TO FIND MULTIPLE VALUE
 				// 3 times
 				count++;
-				if (count==3) {
+				if (count==itemsNeeded.length) { // change count==3 to count==itemsNeeded.length to dynamically read the items in the array
 					break;
+					
+					/*
+					 * We use .length() method to get the size of an array
+					 * 
+					 * We use .size() method to get the size of ArrayList
+					 */
 				}
 			}
 			
